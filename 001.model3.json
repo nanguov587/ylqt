@@ -7,14 +7,12 @@
     ],
     "Physics": "001.physics3.json",
     "Motions": {
-      "idle":[
+      "":[
 
                 {
           "File": "motions/idle_momo_2.motion3.json"
-        }
-      ],
-      
-      "tap": [
+        },
+ 
         {
           "File": "motions/feeding.motion3.json"
         },
@@ -100,20 +98,12 @@
       ]
     }
   },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "EyeBlink",
-      "Ids": [
-        "PARAM_EYE_L_OPEN",
-        "PARAM_EYE_R_OPEN"
-      ]
-    },
+"Groups": [
     {
       "Target": "Parameter",
       "Name": "LipSync",
       "Ids": [
-        "PARAM_MOUTH_OPEN_Y"
+        "ParamMouthOpenY"
       ]
     }
   ]
