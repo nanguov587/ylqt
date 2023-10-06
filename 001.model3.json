@@ -7,7 +7,14 @@
     ],
     "Physics": "001.physics3.json",
     "Motions": {
-      "": [
+      "idle":[
+
+                {
+          "File": "motions/idle_momo_2.motion3.json"
+        }
+      ],
+      
+      "tap": [
         {
           "File": "motions/feeding.motion3.json"
         },
@@ -23,9 +30,7 @@
         {
           "File": "motions/feed_bad.motion3.json"
         },
-        {
-          "File": "motions/idle_momo_2.motion3.json"
-        },
+
         {
           "File": "motions/c_momo_yin_chest.motion3.json"
         },
