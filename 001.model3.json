@@ -1,0 +1,115 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "001.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "001.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/feeding.motion3.json"
+        },
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/c_jieshao.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_normal_other.motion3.json"
+        },
+        {
+          "File": "motions/feed_bad.motion3.json"
+        },
+        {
+          "File": "motions/idle_momo_2.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yin_chest.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yang_arm.motion3.json"
+        },
+        {
+          "File": "motions/feed_happy.motion3.json"
+        },
+        {
+          "File": "motions/c_motou.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yin_face.motion3.json"
+        },
+        {
+          "File": "motions/c_moxiong.motion3.json"
+        },
+        {
+          "File": "motions/feed_normal.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yin_hair.motion3.json"
+        },
+        {
+          "File": "motions/c_jiansuo.motion3.json"
+        },
+        {
+          "File": "motions/ex_happy.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_normal_hair.motion3.json"
+        },
+        {
+          "File": "motions/idle_momo_3.motion3.json"
+        },
+        {
+          "File": "motions/idle_momo_1.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yang_chest.motion3.json"
+        },
+        {
+          "File": "motions/ex_idle.motion3.json"
+        },
+        {
+          "File": "motions/ex_normal.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yang_hair.motion3.json"
+        },
+        {
+          "File": "motions/c_tiqu.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yang_face.motion3.json"
+        },
+        {
+          "File": "motions/c_moqita.motion3.json"
+        },
+        {
+          "File": "motions/c_momo_yin_arm.motion3.json"
+        },
+        {
+          "File": "motions/c_duizhang.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}
